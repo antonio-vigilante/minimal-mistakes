@@ -11,7 +11,11 @@ search: false
 .site-logo {
   width: 100px; /* Imposta una larghezza personalizzata */
   height: auto; /* Mantieni le proporzioni */
-  font-size: 24px; /* Se il logo è un'icona o del testo */
+  font-size: 48px; /* Se il logo è un'icona o del testo */
+}
+
+.masthead .site-title {
+  font-size: 48px; /* Imposta una dimensione diversa per il titolo/logo */
 }
 
 body {
