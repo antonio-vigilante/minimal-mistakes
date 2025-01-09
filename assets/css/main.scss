@@ -8,7 +8,7 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-.site-logo {
+.site-title {
   width: 100px; /* Imposta una larghezza personalizzata */
   height: auto; /* Mantieni le proporzioni */
   font-size: 48px; /* Se il logo è un'icona o del testo */
