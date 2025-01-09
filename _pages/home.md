@@ -2,8 +2,11 @@
 layout: home
 title: " "
 permalink: /
+sidebar:
+  nav: "home-menu"
 header:
-  overlay_image: /images/brain.jpg  
+  overlay_image: /images/brain.jpg 
+  
 ---
 
 
