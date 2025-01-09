@@ -20,6 +20,9 @@ _Nessi_ è un manuale di Scienze Umane ad accesso libero curato da Antonio Vigil
 ## Carl Gustav Jung
 
 ![](/images/jung.jpg)  
+
+![](images/jung.jpg)
+
 Considerato il più importante continuatore del pensiero di Freud, con il quale pure dissente su aspetti importanti come la centralità della sessualità, Carl Gustav Jung ha elaborato una teoria analitica di grande complessità e suggestione, in grado di dialogare con la spiritualità e le tradizioni religiose. _leggi
 
 ## Francisco Ferrer y Guardia
