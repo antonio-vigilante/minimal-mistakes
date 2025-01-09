@@ -88,6 +88,10 @@ naver_site_verification  :
 yandex_site_verification :
 baidu_site_verification  :
 
+# Homepage
+
+home_layout: single
+
 # Social Sharing
 twitter:
   username               :
