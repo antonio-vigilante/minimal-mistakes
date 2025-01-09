@@ -91,12 +91,15 @@ baidu_site_verification  :
 # Homepage
 
 home_layout: single
+
 defaults:
   - scope:
       path: ""
       type: pages
     values:
       layout: single
+
+permalink: /:categories/:title/
 
 # Social Sharing
 twitter:
