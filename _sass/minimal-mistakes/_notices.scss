@@ -76,6 +76,7 @@
 
 .notice {
   @include notice($light-gray);
+  font-size: 14px !important;
 }
 
 /* Primary notice */
