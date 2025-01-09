@@ -9,7 +9,7 @@ search: false
 @import "minimal-mistakes"; // main partials
 
 body {
-  font-size: 12px; 
+  font-size: 14px; 
   line-height: 1.6;  
 }
 
@@ -17,11 +17,11 @@ h1 {
   font-size: 2rem; 
 }
 h2 {
-  font-size: 1.75rem;
-}
-h3 {
   font-size: 1.5rem;
 }
+h3 {
+  font-size: 1.2rem;
+}
 h4 {
-  font-size: 1.25rem;
+  font-size: 1.0rem;
 }
