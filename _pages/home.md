@@ -3,12 +3,7 @@ layout: home
 title: " "
 permalink: /
 header:
-  overlay_image: /images/brain.jpg
-  overlay_filter: linear-gradient(rgba(255, 0, 0, 0.5), rgba(0, 255, 255, 0.5))
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  actions:
-    - label: "Download"
-      url: "https://github.com"
+  overlay_image: /images/brain.jpg  
 ---
 
 
