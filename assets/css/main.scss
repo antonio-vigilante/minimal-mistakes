@@ -11,11 +11,13 @@ search: false
 .site-title {
   width: 100px; /* Imposta una larghezza personalizzata */
   height: auto; /* Mantieni le proporzioni */
-  font-size: 48px; /* Se il logo è un'icona o del testo */
+  font-size: 28px; /* Se il logo è un'icona o del testo */
+  color: #000000;
 }
 
 .masthead .site-title {
-  font-size: 48px; /* Imposta una dimensione diversa per il titolo/logo */
+  font-size: 28px; /* Imposta una dimensione diversa per il titolo/logo */
+  color: #000000;
 }
 
 body {
