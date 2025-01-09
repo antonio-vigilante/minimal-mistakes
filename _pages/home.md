@@ -12,7 +12,7 @@ header:
 
 ### Un manuale di Scienze Umane ad accesso libero
 
-Discorso Comune è un manuale di Scienze Umane ad accesso libero curato da Antonio Vigilante.
+_Nessi_ è un manuale di Scienze Umane ad accesso libero curato da Antonio Vigilante.
 
 "Lo studio adatto all'uomo è quello dei suoi rapporti." Jean-Jacques Rousseau
 {: .notice--warning}
