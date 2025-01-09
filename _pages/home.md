@@ -1,9 +1,8 @@
 ---
 layout: single
-title: "Benvenuti"
+title: "Nessi"
 permalink: /
 ---
 
-# Nessi
 
 ### Un manuale di Scienze Umane ad accesso libero
